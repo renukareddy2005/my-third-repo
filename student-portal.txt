@@ -1,0 +1,5 @@
+name:renukareddy
+class:bca
+roll no:40
+section:b
+collage:aditya degree college
